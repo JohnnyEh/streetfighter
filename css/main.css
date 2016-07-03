@@ -2,10 +2,6 @@ body {
 	background-color: #000;
 }
 
-* {
-  outline: red 1px solid;
-}
-
 .content {
 	background-color: #fff;
 	margin-top: 6.875rem;
@@ -54,7 +50,7 @@ body {
   background-image: url('../images/hadouken.gif');
   width: 156px; 
   height: 90px;
-  display: initial;
+  display: none;
   position: absolute;
   z-index: 10;
   top: 10.69rem;
